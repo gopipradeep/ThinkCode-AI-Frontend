@@ -96,6 +96,7 @@ body, html, #root {
 }
 
 .demo-button {
+  margin-top: 1.25rem;
   background: linear-gradient(90deg, var(--demo-purple-start), var(--demo-purple-end));
   box-shadow: 0 6px 15px rgba(123,47,247,0.8);
   color: white;
